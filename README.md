@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Kauã Evangelista 😁
+## Bem-vindo(a) ao perfil de Kauã Evangelista 😁
  
  <div>
    <a href="https://github.com/Kauaevangelista">
@@ -6,7 +6,9 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauaevangelista&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
+
 <div style="display: inline_block"><br>
+  <h2> Linguagens que eu domino 🛠</h2>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="SASS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
@@ -18,7 +20,7 @@
   <img align="center" alt="WEBPACK" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
 </div>
  
- <br>
+ 
  
   ### Entre em contato comigo abaixo!!
  
