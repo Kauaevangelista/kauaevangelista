@@ -13,6 +13,8 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="SASS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" alt="BOOTSTRAP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img align="center" alt="Tailwind" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img align="center" alt="Bulma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" />
   <img align="center" alt="Javacript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="JSON" height="45" width="45" src="https://img.icons8.com/external-creatype-filed-outline-colourcreatype/64/null/external-document-file-extension-web-format-file-creatype-filed-outline-colourcreatype-14.png"/>
   <img align="center" alt="NPM" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
