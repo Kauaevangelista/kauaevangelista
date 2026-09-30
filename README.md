@@ -1,44 +1,84 @@
-## Bem-vindo(a) ao perfil de Kauã Evangelista 😁
- 
- <div>
-   <a href="https://github.com/Kauaevangelista">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kauaevangelista&hide=prs&count_private=true&show_icons=true&theme=tokyonight"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauaevangelista&layout=compact&theme=tokyonight"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=230&section=header&text=Kau%C3%A3%20Evangelista&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack&descAlignY=58&descSize=22" width="100%" alt="Banner"/>
+
+<a href="https://github.com/Kauaevangelista">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=24C6DC&center=true&vCenter=true&width=640&lines=Ol%C3%A1%2C+eu+sou+o+Kau%C3%A3+%F0%9F%91%8B;Transformo+ideias+em+c%C3%B3digo+%F0%9F%9A%80;JavaScript+%7C+TypeScript+%7C+Node+%7C+React;Sempre+aprendendo%2C+sempre+evoluindo+%E2%9C%A8" alt="Typing SVG"/>
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Kauaevangelista&label=Visitas&color=24c6dc&style=for-the-badge" alt="Visitas"/>
+<img src="https://img.shields.io/github/followers/Kauaevangelista?label=Seguidores&style=for-the-badge&color=302b63&logo=github" alt="Seguidores"/>
 
 </div>
 
-<div style="display: inline_block"><br>
-  <h2> Ferramentas que eu trabalho 🛠</h2>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="SASS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img align="center" alt="BOOTSTRAP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="Tailwind" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-  <img align="center" alt="Bulma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" />
-  <img align="center" alt="Bulma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
-  <img align="center" alt="Javacript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="JSON" height="45" width="45" src="https://img.icons8.com/external-creatype-filed-outline-colourcreatype/64/null/external-document-file-extension-web-format-file-creatype-filed-outline-colourcreatype-14.png"/>
-  <img align="center" alt="NPM" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-  <img align="center" alt="BABEL" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" />
-  <img align="center" alt="WEBPACK" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
-  <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="ReactJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="NodeJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Express" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-  <img align="center" alt="Express" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img align="center" alt="PostgreeSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img align="center" alt="Sequelize" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
-  <img align="center" alt="Typescript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+---
+
+## 👨‍💻 Sobre mim
+
+```js
+const kaua = {
+  nome: "Kauã Evangelista",
+  foco: ["Front-end moderno", "APIs com Node.js", "Automação e qualidade"],
+  estudando: ["TypeScript", "Arquitetura de software", "Testes automatizados"],
+  objetivo: "Construir produtos rápidos, bonitos e confiáveis",
+  frase: "Código bom é código que outra pessoa entende. 💡",
+};
+```
+
+---
+
+## 🛠 Ferramentas que eu trabalho
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,react&theme=dark" alt="Front-end"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,sequelize&theme=dark" alt="Back-end"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,npm,babel,webpack,figma,vscode&theme=dark" alt="Ferramentas"/>
+
 </div>
- 
- 
- 
-  ### Entre em contato comigo abaixo!!
- 
-<div> 
-  <a href = "mailto:kaua13evangelista@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/kauã-evangelista-28b278250/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/Kauaevangelista/Kauaevangelista/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+
+<img src="https://img.shields.io/github/followers/Kauaevangelista?label=Seguidores&style=for-the-badge&color=302b63&logo=github" alt="Seguidores"/>
+<img src="https://img.shields.io/github/stars/Kauaevangelista?label=Stars&style=for-the-badge&color=24c6dc&logo=github&affiliations=OWNER" alt="Stars"/>
+<img src="https://img.shields.io/github/created-at/Kauaevangelista?label=No%20GitHub%20desde&style=for-the-badge&color=0f0c29&logo=github" alt="Desde"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Kauaevangelista&theme=tokyonight&hide_border=true" alt="Streak"/>
+
+</div>
+
+---
+
+## 🐍 Contribuições
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Kauaevangelista/kauaevangelista/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+
+</div>
+
+---
+
+## 📫 Vamos conversar?
+
+<div align="center">
+
+<a href="mailto:kaua13evangelista@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://www.linkedin.com/in/kauã-evangelista-28b278250/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/Kauaevangelista"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24c6dc,50:302b63,100:0f0c29&height=120&section=footer" width="100%" alt="Rodapé"/>
 
 </div>
