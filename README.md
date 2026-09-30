@@ -47,8 +47,11 @@ const kaua = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Kauaevangelista&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauaevangelista&layout=compact&hide_border=true&theme=tokyonight" alt="Linguagens"/>
+<img src="https://img.shields.io/github/followers/Kauaevangelista?label=Seguidores&style=for-the-badge&color=302b63&logo=github" alt="Seguidores"/>
+<img src="https://img.shields.io/github/stars/Kauaevangelista?label=Stars&style=for-the-badge&color=24c6dc&logo=github&affiliations=OWNER" alt="Stars"/>
+<img src="https://img.shields.io/github/created-at/Kauaevangelista?label=No%20GitHub%20desde&style=for-the-badge&color=0f0c29&logo=github" alt="Desde"/>
+
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=Kauaevangelista&theme=tokyonight&hide_border=true" alt="Streak"/>
 
