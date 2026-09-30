@@ -49,7 +49,7 @@ const kaua = {
 
 <img src="https://img.shields.io/github/followers/Kauaevangelista?label=Seguidores&style=for-the-badge&color=302b63&logo=github" alt="Seguidores"/>
 <img src="https://img.shields.io/github/stars/Kauaevangelista?label=Stars&style=for-the-badge&color=24c6dc&logo=github&affiliations=OWNER" alt="Stars"/>
-<img src="https://img.shields.io/github/created-at/Kauaevangelista?label=No%20GitHub%20desde&style=for-the-badge&color=0f0c29&logo=github" alt="Desde"/>
+<img src="https://img.shields.io/badge/Base-S%C3%A3o%20Paulo%2C%20SP-0f0c29?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Localização"/>
 
 <br/><br/>
 
